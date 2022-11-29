@@ -1,6 +1,6 @@
 ---
 title: "Capstone"
-author: "Amber Scovell"
+author: "Merlin Star"
 date: "5/25/2021"
 output:
   html_document:
