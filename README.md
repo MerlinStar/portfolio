@@ -7,4 +7,6 @@ The Brief Portfolio is intended for those that do not have much time to assess m
 
 The How I think is the section all about on how I think. No code will be in this section and it will be entirely of write ups of my thought process.
 
-The MentalHealthAndViolence is my capstone.
+The ProjectOfMentalHealthAndViolence is my capstone.
+
+All folders will contain a file called a README. This is a file that gives you basic information about what each folder is about. The text automatically shows at the bottom of the screen, so no need to open the file itself.
